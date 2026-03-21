@@ -2,7 +2,7 @@
 
 <br/>
 
-# Arthur Andreo
+# Hi 👋,  im Arthur Andreo
 
 Computer Science Student @ 42 Le Havre &nbsp;·&nbsp; 
 Currently learning C / C++
